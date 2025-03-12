@@ -59,4 +59,4 @@ Machine Learning Libraries: Scikit-learn, XGBoost
 
 Natural Language Processing: NLTK
 
-This project was developed as part of COSI 114a coursework.
+This project was developed as part of Brandeis University COSI 114a coursework.
